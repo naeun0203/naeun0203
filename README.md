@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&%20render&fontSize=90)
 ### 게임개발하고싶은 개발개발자 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeun0203)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeun0203&layout=compact)](https://github.com/naeun0203/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeun0203)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **naeun0203/naeun0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
