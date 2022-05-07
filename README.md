@@ -1,7 +1,5 @@
 ### 게임개발하고싶은 개발개발자 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeun0203)](https://github.com/naeun0203)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeun0203)](https://github.com/naeun0203)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeun0203&count_private=true)
 
 ### ✨포트폴리오✨
 https://www.notion.so/Jung-Naeun-1be189324ccc4d0c8b01fee67385d4cc
