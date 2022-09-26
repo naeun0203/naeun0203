@@ -1,4 +1,4 @@
-### 게임개발하고싶은 개발개발자 👋
+### 게임개발하고싶은 개발자입니다 :) 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeun0203&count_private=true)
 
 ### ✨포트폴리오✨
