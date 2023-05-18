@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=naeun0203)](https://solved.ac/naeun0203/)
 
 ### ✨포트폴리오✨
-https://www.notion.so/Jung-Naeun-1be189324ccc4d0c8b01fee67385d4cc
+https://keen-softball-3c6.notion.site/9624002ab43445d0a0b11e660dc7813b
 <!--
 **naeun0203/naeun0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
